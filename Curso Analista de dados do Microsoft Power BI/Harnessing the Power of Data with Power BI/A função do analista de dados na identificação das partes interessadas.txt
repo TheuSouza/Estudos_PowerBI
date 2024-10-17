@@ -1,0 +1,78 @@
+A função do analista de dados na identificação das partes interessadas.
+
+
+
+Nome: Renee é a diretora de marketing. 
+Função: Ela desenvolve e executa estratégias de marketing que anunciam e divulgam os produtos e serviços da empresa.
+Nível de influência: Alto
+Nível de interesse: Alto
+- Todo o projeto gira em torno da equipe de marketing então esse é o motivo de estar na primeira colocação
+e ter um alto nível de influência e interesse.
+
+Q1: Com base em quais informações você executa suas estratégias de marketing?
+Q2: Qual publico alto você tentou atingir na sua última campanha?
+Q3: Quais redes sociais você direciona suas campanhas de marketing?
+
+Nome: Kane é o gerente de vendas.
+Função: Ele supervisiona a equipe de vendas e garante que ela atinja suas metas de vendas.
+Nível de influência: Alto
+Nível de interesse: Alto
+- Acredito que sem o cliente não há empresa mas para o cliente ser fiel e retornar a empresa você precisa 
+ter um ótima equipe de vendas, no "chão de loja" é onde tudo realmente acontece.
+
+Q1: Você tem recebido algum feedback de algum dos seus colaboradores sobre algum dos nossos produtos?
+Q2: Algum colaborador questonou alguma metodologia aplicada pela empresa e como ela dificulta o processo da venda?
+Q3: Você já coletou feedback dos colaboradores, para saber o que eles sugeririam de melhorias nos nossos 
+processo?
+
+Nome: Hassan é o gerente de recursos humanos.
+Função: Ele gerencia a equipe e os recursos de emprego da empresa.
+Nível de influência: Médio
+Nível de interesse: Médio
+- Novamente reforçando a minha segunda posição, é melhor ter um gap em vendas do que ter funcionarios
+infelizes ou descontentes com a empresa que trabalha, acho importante a satisfeitos do colaborador.
+
+Q1: Como está a satisfação dos colaboradores com a empresa?
+Q2: Estamos garantindo que todas as ferramentas necessarias estão sendo entregues para que nossos 
+colaboradores possa desempenhar da melhor maneira possível?
+Q3: Qual a área da empresa que apresenta o maior Gap de funcionarios?
+
+Nome: Ricci é a gerente de atendimento ao cliente.
+Função: Ela é responsável por garantir que os clientes estejam satisfeitos com os produtos e serviços da empresa.
+Nível de influência: Médio
+Nível de interesse: Baixo
+- A função da Ricci é ser somente uma intermediadora então não vejo um grande nivel de influência, mas é 
+importante que ela garanta que tanto os produtos e serviços seja entregue da melhor maneira possível,
+meu baixo nível de interesse é porque não quero participar diretamente mas quero ficar informado dasatisfação 
+dos clientes.
+
+Q1: Nossos clientes tem reclamado dos produtos ou dos nossos serviços?
+Q2: Se você fosse escolher entre produtos e serviços, qual você escolheria para focar todo nosso 
+investimento e dedicação para melhorar.
+Q3: Quais os 5 produtos e serviços que temos mais reclamações é os 5 com os melhores feedback?
+
+Nome: Sam é o gerente de pesquisa e desenvolvimento.
+Função: Sam gerencia o departamento de pesquisa e desenvolvimento da empresa.
+Nível de influência: Médio
+Nível de interesse: Médio
+- Sam pode ter informações sobre sobre produtos e serviços da empresa que foram aceitos pelos
+cliente e também produtos que não performaram bem, isso ajudaria a escolher os melhores produtos
+e serviços para as próximas campanhas.
+
+Q1: Nesse momento qual o foco do departamento de pesquisa?
+Q2: Com base em suas pesquisas, qual seria a coisa primordial que precisamos implemetar e desenvolve
+dentro da empresa hoje, nesse exato momento?
+Q3: Estamos pesquisando a concorrencia para desenvolve produtos com as mesmas caracteristicas? lógico
+com mais eficiencia mas qualidade e com preço competitivo.
+
+Nome: Igor é o gerente financeiro.
+Função: Ele supervisiona as operações financeiras da empresa.
+Nível de influência: Baixo
+Nível de interesse: Baixo
+- Não acho que nivel de influência seja alto porque o Igor não atua diretamente, mas é importante
+saber como anda os números da empresa para saber onde atuar, ivestir e retirar recursos desnecessários.
+
+Q1: Esse mês foi melhor ou pior comparado ao mesmo mês do ano passado?
+Q2: Qual a nossa meta no primeira mês desse ano e qual é a meta de vendas agora?
+Q3: Teve algum mês que performou menos que o mês do ano passado?
+
